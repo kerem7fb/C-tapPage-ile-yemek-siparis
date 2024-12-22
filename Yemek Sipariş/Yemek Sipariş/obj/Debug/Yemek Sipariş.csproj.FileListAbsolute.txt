@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\bin\Debug\Yemek Sipariş.exe.config
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\bin\Debug\Yemek Sipariş.exe
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\bin\Debug\Yemek Sipariş.pdb
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\obj\Debug\Yemek Sipariş.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\obj\Debug\Yemek_Sipariş.Form1.resources
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\obj\Debug\Yemek_Sipariş.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\obj\Debug\Yemek Sipariş.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\obj\Debug\Yemek Sipariş.exe
+C:\Users\user\Desktop\10-M\Yemek Sipariş\Yemek Sipariş\obj\Debug\Yemek Sipariş.pdb
